@@ -15,7 +15,7 @@ body{
     position: relative;
     background-image: url(assets/firstwall.jpg);   
     width: 360px;
-    height: 800px;
+    height: 740px;
 }
 
 #menu{
@@ -23,7 +23,7 @@ body{
     position: relative;
     background-color: #2c2a2b;
     width: 360px;
-    height: 800px;
+    height: 740px;
 }
 
 
@@ -97,7 +97,7 @@ button {
     position: relative;
     background-image: url("assets/zoomIN.jpg");
     width: 360px;
-    height: 800px;
+    height: 740px;
 }
 
 
@@ -191,7 +191,7 @@ button {
     /* background-image: url("assets/zoomIN.jpg"); */
     background-color: white;
     width: 360px;
-    height: 800px;
+    height: 740px;
 
     }
 
